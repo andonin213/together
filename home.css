@@ -17,4 +17,13 @@
 	color: aliceblue;
 	border-radius: 7px;
 	overflow: hidden;
+	margin-bottom:20px;
+}
+#tres-image{
+  margin-right:5px;
+  padding-right:5px;
+}
+#scion-image{
+  margin-left:5px;
+  padding-left:5px;
 }
