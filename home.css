@@ -8,3 +8,13 @@
   margin-bottom:20px;
   padding-bottom:20px;
 }
+#workers{
+  background-color: orange;
+}
+.buttons{
+	padding: 6px;
+	background-color: #000000;
+	color: aliceblue;
+	border-radius: 7px;
+	overflow: hidden;
+}
